@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Lucas Makinen's Research Blog
 description: For project updates and public code
+permalink: /blog/:year/:month/:day/:title
+
